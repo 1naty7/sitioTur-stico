@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.28px" height="595.89px" viewBox="0 0 595.28 595.89" enable-background="new 0 0 595.28 595.89" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="44.7241" y1="213.5215" x2="262.043" y2="213.5215">
+	<stop  offset="0" style="stop-color:#FFFF25"/>
+	<stop  offset="0.0595" style="stop-color:#FEE916"/>
+	<stop  offset="0.1303" style="stop-color:#FED50E"/>
+	<stop  offset="0.2032" style="stop-color:#FECA06"/>
+	<stop  offset="0.2809" style="stop-color:#FEC600"/>
+	<stop  offset="0.6685" style="stop-color:#FB7B1E"/>
+	<stop  offset="0.8876" style="stop-color:#F9441B"/>
+	<stop  offset="1" style="stop-color:#F71818"/>
+</linearGradient>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="44.2241" y1="213.5215" x2="262.6772" y2="213.5215">
+	<stop  offset="0" style="stop-color:#FFFF25"/>
+	<stop  offset="0.0595" style="stop-color:#FEE916"/>
+	<stop  offset="0.1303" style="stop-color:#FED50E"/>
+	<stop  offset="0.2032" style="stop-color:#FECA06"/>
+	<stop  offset="0.2809" style="stop-color:#FEC600"/>
+	<stop  offset="0.6685" style="stop-color:#FB7B1E"/>
+	<stop  offset="0.8876" style="stop-color:#F9441B"/>
+	<stop  offset="1" style="stop-color:#F71818"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" stroke="url(#SVGID_2_)" stroke-miterlimit="10" d="M135.656,104.097h14.554v76.817h19.915v-75.779
+	l9.684,1.969c0,0,1.971,18.548,11.491,32.828c5.087,6.073,25.769,21.831,28.56,28.231c1.806,0,1.806,0,1.806,0
+	s-0.33-30.529-14.937-50.717c5.087,3.61,37.587,19.59,51.538,63.468c-14.032,0-71.946,0-71.946,0v7.274v5.638h75.723v14.225H186.32
+	v19.917h75.723l-2.628,10.939c0,0-21.666,1.641-39.064,17.072c-3.119,3.444-9.356,13.293-22.323,23.633
+	c0.164,1.15,0.164,1.15,0.164,1.15s28.724,0.328,51.211-15.266c-2.462,5.09-19.313,36.859-63.083,51.504c0-12.028,0-71.692,0-71.692
+	h-13.405v77.636h-14.444l-0.164-77.309l-20.243-0.165v75.34l-10.779-2.299c0,0-1.477-23.964-15.593-37.75
+	c-1.805-2.134-15.758-12.803-24.292-23.309c-1.807,0.494-1.807,0.494-1.807,0.494s1.97,31.678,15.101,50.061
+	c-3.119-1.806-38.736-23.307-51.21-62.699c10.504-0.166,72.056,0,72.056,0v-13.403H44.724V218.12h76.488l0.164-19.59l-75.011,0.165
+	l2.133-11.654c0,0,22.487-1.969,37.26-15.1c2.954-2.627,15.757-21.503,24.128-25.278c0.329-2.133,0.329-2.133,0.329-2.133
+	s-23.799-1.149-51.54,16.085c2.791-5.745,26.591-43.167,64.505-52.195c0,5.662,0,72.496,0,72.496h12.475V104.097z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="290.585" y1="213.0918" x2="296.1772" y2="213.0918">
+	<stop  offset="0" style="stop-color:#FFFF25"/>
+	<stop  offset="0.0595" style="stop-color:#FEE916"/>
+	<stop  offset="0.1303" style="stop-color:#FED50E"/>
+	<stop  offset="0.2032" style="stop-color:#FECA06"/>
+	<stop  offset="0.2809" style="stop-color:#FEC600"/>
+	<stop  offset="0.6685" style="stop-color:#FB7B1E"/>
+	<stop  offset="0.8876" style="stop-color:#F9441B"/>
+	<stop  offset="1" style="stop-color:#F71818"/>
+</linearGradient>
+<rect x="291.085" y="103.238" fill="#FD1A16" stroke="url(#SVGID_3_)" stroke-miterlimit="10" width="4.592" height="219.708"/>
+<text transform="matrix(1 0 0 1 54.7344 360.5391)" fill="#FD1A16" font-family="'Arial-BoldMT'" font-size="36">COLOMBIA</text>
+<text transform="matrix(1 0 0 1 316.9805 222.7056)" fill="#FD1A16" font-family="'Arial-BoldMT'" font-size="36">Turismo</text>
+</svg>
